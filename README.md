@@ -12,8 +12,8 @@ Main idea is to create a leaderboard and a discord channel for a vibrant communi
 All technical societies are welcome to join us.
 
 ### Improvements we can add
-- **End of Competition Social** on Friday evening the 12th, to celebrate the challenge completion we can have a social with all the participants. It can be a great and vibrant networking event, brining Computer Science students from all around London.
-- **Prizes**. we can have a prize pool for winners. As prizes we can set Amazon vouchers, and for a winner a cup of the best coder in London
+- **End of Competition Social** on Friday evening the 12th or Saturday evening the 13th, to celebrate the challenge completion we can have a social with all the participants. It can be a great and vibrant networking event, brining Computer Science students from all around London.
+- **Prizes**. If we involve sponsors for the event or use societies' development fund, we can have a prize pool for winners. As prizes we can set Amazon vouchers, and for a winner a cup of the best coder in London
 - **Company's outreach**. It is clear we can have company's interest by sharing resuts of the competition with them, best on the leaderboard have to be London's most cracked and motivated coders. We can have some pocket change in sponsorship in return of collaborating with companies
  
 This year there will be 12 Advent of Code puzzles, which ends on Friday 12th December
